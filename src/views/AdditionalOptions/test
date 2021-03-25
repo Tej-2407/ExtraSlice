@@ -1,0 +1,25 @@
+<template>
+  <div>
+    <!-- <b-button type="button" class="btn btn-secondary" v-on:click="this.toggleModal" data-dismiss="modal">Create</b-button>
+    <b-table striped hover :items="items">
+      
+    </b-table> -->
+    
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'AdditionalOptions',
+    data() {
+      return {
+        // items: [
+        //   { id: 1, first_name: 'Dickerson', last_name: 'Macdonald' },
+        //   { id: 2, first_name: 'Larsen', last_name: 'Shaw' },
+        //   { id: 3, first_name: 'Geneva', last_name: 'Wilson' },
+        //   { id: 4, first_name: 'Jami', last_name: 'Carney' }
+        // ]
+      }
+    }
+  }
+</script>
